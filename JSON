@@ -38,4 +38,5 @@ const places = [
   { id: 37, name_en: "Fort Tryon Park", category: "Park", entrance_fee: false, address: "New York, NY 10040", latitude: 40.8629, longitude: -73.9312 },
   { id: 38, name_en: "McCarren Park", category: "Park", entrance_fee: false, address: "Brooklyn, NY 11222", latitude: 40.7216, longitude: -73.9523 },
   { id: 39, name_en: "Socrates Sculpture Park", category: "Park", entrance_fee: false, address: "32-01 Vernon Blvd, Queens, NY 11106", latitude: 40.7681, longitude: -73.9410 },
-  { id: 40, name_en: "Flushing Meadows Corona Park", category: "Park
+  { id: 40, name_en: "Flushing Meadows Corona Park", category: "Park}]
+
