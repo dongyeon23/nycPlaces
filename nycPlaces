@@ -98,7 +98,7 @@
   {"id":97,"name_en":"Grand Army Plaza","category":"Landmark","entrance_fee":false,"address":"Brooklyn, NY 11238","latitude":40.6721,"longitude":-73.9706},
   {"id":98,"name_en":"Pier 6 Brooklyn Bridge Park","category":"Park","entrance_fee":false,"address":"Brooklyn, NY 11201","latitude":40.6953,"longitude":-73.9962},
   {"id":99,"name_en":"Brooklyn Heights Promenade","category":"Park","entrance_fee":false,"address":"Montague St & Pierrepont Pl, Brooklyn, NY 11201","latitude":40.6987,"longitude":-73.9969},
-  {"id":100,"name_en":"Industry City","category":"Market","entrance_fee":false,"address":"220 36th St, Brooklyn, NY 11232","latitude":40.6561,"longitude":-74.0072}
+  {"id":100,"name_en":"Industry City","category":"Market","entrance_fee":false,"address":"220 36th St, Brooklyn, NY 11232","latitude":40.6561,"longitude":-74.0072},
   {"id":101,"name_en":"Washington Square Park","category":"Park","entrance_fee":false,"address":"Washington Square, New York, NY 10012","latitude":40.7308,"longitude":-73.9973},
   {"id":102,"name_en":"Tompkins Square Park","category":"Park","entrance_fee":false,"address":"500 E 9th St, New York, NY 10009","latitude":40.7265,"longitude":-73.9815},
   {"id":103,"name_en":"Riverside Park","category":"Park","entrance_fee":false,"address":"475 Riverside Dr, New York, NY 10115","latitude":40.8075,"longitude":-73.9633},
